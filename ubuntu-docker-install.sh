@@ -14,6 +14,9 @@ sudo apt-get install -y \
     ca-certificates \
     curl \
     gnupg \
+    net-tools \
+    make \
+    unzip \
     lsb-release \
     software-properties-common
 
